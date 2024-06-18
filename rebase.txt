@@ -1,0 +1,11 @@
+1
+2
+3
+clear
+new one
+new two
+new three
+clear again-------
+new new one
+new new two
+new new three
