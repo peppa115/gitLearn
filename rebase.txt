@@ -5,4 +5,5 @@ clear
 new one
 new two
 new three
+clear again-------
 
